@@ -1,0 +1,77 @@
+body
+/*Set my background image and text color to white.*/
+{
+  background: url("Images/blue background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 25;
+  padding: 0;
+  color:black;
+}
+
+.navbar__menu{
+  list-style-type: none;
+  text-align: right;
+  height: 5px;
+}
+.navbar__item{
+  display: inline;
+  margin: 10px;
+  padding: 5px;
+  font-size: 1.4rem;
+}
+
+.header{
+    padding: 60px;
+    text-align: center;
+    color:sandybrown;
+    font-size: 2.5rem;
+    font-family: 'New Tegomin', serif;
+}
+
+.header p{
+  font-size: 1.6rem;
+}
+
+.topic h2{
+  font-size: 2rem;
+}
+
+.topic h3{
+  font-size: 1rem;
+}
+
+.topic ul{
+  list-style-type: none;
+  padding: 0;
+  color: black;
+}
+
+.topic ol{
+  padding:5;
+  color:black;
+}
+
+/* These were all different tests as I was learning how to build my page.  Some of them may work, some may not.  I started over a few times
+but didn't want to delete things.
+.top{
+    width: 80%;
+    margin: auto;
+}
+
+.nav-menu{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav-menu li{
+    display: inline-block;
+}
+
+.nav-menu li a{
+    color: orange;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}*/
